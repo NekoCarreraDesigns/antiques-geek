@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import {Link} from "react-router-dom";
 
 function Antiques() {
   return (
@@ -35,9 +36,9 @@ function Antiques() {
         them, or if people melted them down, the 400,000 could end up being
         100,000 in 2022 or even lower
       </p>
-      <a className='antiques-view-link' href='/antiques-view'>
+      <Link className='antiques-view-link' href='/antiques-view'>
         View Antiques
-      </a>
+      </Link>
     </div>
   );
 }
