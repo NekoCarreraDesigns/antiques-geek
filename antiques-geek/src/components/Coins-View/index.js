@@ -13,7 +13,7 @@ function CoinsView() {
             1942 Mercury Dime <br /> VF-20 $1.75
           </p>
           <br />
-          <Link className='purchase-link' href='/purchase-message'>
+          <Link className='purchase-link' to='/purchase-message'>
             Purchase
           </Link>
         </div>
@@ -25,7 +25,7 @@ function CoinsView() {
             <br /> VF-20 $185
           </p>
           <br />
-          <Link className='purchase-link' href='/purchase-message'>
+          <Link className='purchase-link' to='/purchase-message'>
             Purchase
           </Link>
         </div>
@@ -37,7 +37,7 @@ function CoinsView() {
             <br /> MS-67 $44,500
           </p>
           <br />
-          <Link className='purchase-link' href='/purchase-message'>
+          <Link className='purchase-link' to='/purchase-message'>
             Purchase
           </Link>
         </div>
@@ -49,7 +49,7 @@ function CoinsView() {
             <br /> PF-70 $160
           </p>
           <br />
-          <Link className='purchase-link' href='/purchase-message'>
+          <Link className='purchase-link' to='/purchase-message'>
             Purchase
           </Link>
         </div>
@@ -62,7 +62,7 @@ function CoinsView() {
             1936 Buffalo Nickel <br /> F-15 $1.00
           </p>
           <br />
-          <Link className='purchase-link' href='/purchase-message'>
+          <Link className='purchase-link' to='/purchase-message'>
             Purchase
           </Link>
         </div>
@@ -73,7 +73,7 @@ function CoinsView() {
             1926 Peace Dollar <br /> VF-20 $25
           </p>
           <br />
-          <Link className='purchase-link' href='/purchase-message'>
+          <Link className='purchase-link' to='/purchase-message'>
             Purchase
           </Link>
         </div>
@@ -84,7 +84,7 @@ function CoinsView() {
             1921 Morgan Dollar <br /> MS-60 $45
           </p>
           <br />
-          <Link className='purchase-link' href='/purchase-message'>
+          <Link className='purchase-link' to='/purchase-message'>
             Purchase
           </Link>
         </div>
@@ -95,7 +95,7 @@ function CoinsView() {
             1971 Eisenhower Dollar <br /> MS-65 $200
           </p>
           <br />
-          <Link className='purchase-link' href='/purchase-message'>
+          <Link className='purchase-link' to='/purchase-message'>
             Purchase
           </Link>
         </div>
@@ -114,7 +114,7 @@ function CoinsView() {
             1971 Eisenhower Proof Dollar Deep Cameo <br /> PR-68 $2,500
           </p>
           <br />
-          <Link className='purchase-link' href='/purchase-message'>
+          <Link className='purchase-link' to='/purchase-message'>
             Purchase
           </Link>
         </div>
@@ -125,7 +125,7 @@ function CoinsView() {
             1960 Franklin Half Dollar <br /> PR-68 $150
           </p>
           <br />
-          <Link className='purchase-link' href='/purchase-message'>
+          <Link className='purchase-link' to='/purchase-message'>
             Purchase
           </Link>
         </div>
@@ -142,7 +142,7 @@ function CoinsView() {
             1967 Kennedy Half Dollar <br /> MS-66 $500
           </p>
           <br />
-          <Link className='purchase-link' href='/purchase-message'>
+          <Link className='purchase-link' to='/purchase-message'>
             Purchase
           </Link>
         </div>
@@ -152,7 +152,7 @@ function CoinsView() {
             2014 50th Anniversary Kennedy Half Dollars <br /> PR-70 $150
           </p>
           <br />
-          <Link className='purchase-link' href='/purchase-message'>
+          <Link className='purchase-link' to='/purchase-message'>
             Purchase
           </Link>
         </div>
@@ -165,7 +165,7 @@ function CoinsView() {
             2006 Liberty Silver Dollar <br /> PR-70 $100
           </p>
           <br />
-          <Link className='purchase-link' href='/purchase-message'>
+          <Link className='purchase-link' to='/purchase-message'>
             Purchase
           </Link>
         </div>
@@ -176,7 +176,7 @@ function CoinsView() {
             1889 Liberty Nickel <br /> VG-12 $1
           </p>
           <br />
-          <Link className='purchase-link' href='/purchase-message'>
+          <Link className='purchase-link' to='/purchase-message'>
             Purchase
           </Link>
         </div>
@@ -187,7 +187,7 @@ function CoinsView() {
             1978 Eisenhower Dollar <br /> PR-68 $25
           </p>
           <br />
-          <Link className='purchase-link' href='/purchase-message'>
+          <Link className='purchase-link' to='/purchase-message'>
             Purchase
           </Link>
         </div>
@@ -198,7 +198,7 @@ function CoinsView() {
             1976-S Eisenhower Dollar Bicentennial <br /> MS-67 $125
           </p>
           <br />
-          <Link className='purchase-link' href='/purchase-message'>
+          <Link className='purchase-link' to='/purchase-message'>
             Purchase
           </Link>
         </div>
