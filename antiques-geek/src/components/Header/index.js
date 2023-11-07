@@ -1,34 +1,35 @@
 import React from "react";
 import "./style.css";
+import { Link } from "react-router-dom";
 
 function Header() {
   return (
     <div>
       <nav className='page-navbar'>
-        <a className='page-navbar-link' href='/coins'>
+        <Link className='page-navbar-link' href='/coins'>
           Numisma
-        </a>
+        </Link>
         {"   "}
-        <a className='page-navbar-link' href='/stamps'>
+        <Link className='page-navbar-link' href='/stamps'>
           Philately
-        </a>
+        </Link>
         {"   "}
-        <a className='page-navbar-link' href='/antiques'>
+        <Link className='page-navbar-link' href='/antiques'>
           Antiques
-        </a>
+        </Link>
         {"   "}
         <br />
-        <a className='page-navbar-link' href='/coins-view'>
+        <Link className='page-navbar-link' href='/coins-view'>
           Coins
-        </a>
+        </Link>
         {"  "}
-        <a className='page-navbar-link' href='/stamps-view'>
+        <Link className='page-navbar-link' href='/stamps-view'>
           Stamps
-        </a>
+        </Link>
         {"  "}
-        <a className='page-navbar-link' href='/antiques-view'>
+        <Link className='page-navbar-link' href='/antiques-view'>
           Pieces
-        </a>
+        </Link>
       </nav>
       <header className='page-header'>The Antique Geek</header>
     </div>
