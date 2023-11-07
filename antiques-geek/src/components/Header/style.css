@@ -1,0 +1,21 @@
+.page-header {
+  /* font-family: "Parisienne", cursive; */
+  font-family: "Luxurious Script", cursive;
+  font-size: 150px;
+  font-weight: lighter;
+  text-shadow: 2px 2px rgb(11, 100, 100);
+}
+
+.page-navbar {
+  font-size: 30px;
+  padding: 20px;
+  margin-right: 1100px;
+}
+
+.page-navbar-link {
+  color: rgb(235, 157, 90);
+}
+
+.page-navbar-link:hover {
+  color: rgb(133, 11, 255);
+}
