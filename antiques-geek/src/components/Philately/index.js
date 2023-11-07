@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import { Link } from "react-router-dom";
 
 function Philately() {
   return (
@@ -113,9 +114,9 @@ function Philately() {
           <br />
         </ul>
       </div>
-      <a className='stamp-view-link' href='/stamps-view'>
+      <Link className='stamp-view-link' to='/stamps-view'>
         View Stamps
-      </a>
+      </Link>
     </div>
   );
 }
