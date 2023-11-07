@@ -1,0 +1,41 @@
+.numisma-header {
+  font-family: "luxurious Script";
+  font-size: 100px;
+  font-weight: 200;
+  color: rgb(11, 0, 11);
+  text-shadow: 2px 2px rgb(235, 157, 50);
+  letter-spacing: 1px;
+}
+
+.numisma-paragraph {
+  font-size: 30px;
+  font-weight: 200;
+  color: rgb(235, 157, 50);
+}
+
+.numisma-abbreviation-header {
+  color: rgb(235, 157, 50);
+  text-decoration: underline;
+  font-size: 32px;
+}
+
+.numisma-list {
+  color: rgb(235, 157, 50);
+  font-size: 32px;
+}
+
+.numisma-list-paragraph {
+  font-size: 30px;
+  font-weight: 200;
+  color: rgb(235, 157, 50);
+}
+
+.coins-view-link {
+  color: rgb(235, 157, 50);
+  font-size: 30px;
+  padding: 100px;
+}
+
+.coins-view-link:hover {
+  color: rgb(133, 11, 135);
+}
