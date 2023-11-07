@@ -6,28 +6,28 @@ function Header() {
   return (
     <div>
       <nav className='page-navbar'>
-        <Link className='page-navbar-link' href='/coins'>
+        <Link className='page-navbar-link' to='/coins'>
           Numisma
         </Link>
         {"   "}
-        <Link className='page-navbar-link' href='/stamps'>
+        <Link className='page-navbar-link' to='/stamps'>
           Philately
         </Link>
         {"   "}
-        <Link className='page-navbar-link' href='/antiques'>
+        <Link className='page-navbar-link' to='/antiques'>
           Antiques
         </Link>
         {"   "}
         <br />
-        <Link className='page-navbar-link' href='/coins-view'>
+        <Link className='page-navbar-link' to='/coins-view'>
           Coins
         </Link>
         {"  "}
-        <Link className='page-navbar-link' href='/stamps-view'>
+        <Link className='page-navbar-link' to='/stamps-view'>
           Stamps
         </Link>
         {"  "}
-        <Link className='page-navbar-link' href='/antiques-view'>
+        <Link className='page-navbar-link' to='/antiques-view'>
           Pieces
         </Link>
       </nav>
