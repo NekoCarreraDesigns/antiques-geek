@@ -1,0 +1,24 @@
+.stamp-row,
+.stamp-row-1,
+.stamp-row-2 {
+  display: flex;
+}
+
+.stamp-column {
+  flex: 33.33%;
+  padding: 15px;
+}
+
+.description {
+  font-size: 20px;
+  color: rgb(235, 155, 56);
+}
+
+.purchase-link {
+  color: rgb(235, 155, 56);
+  font-size: 30px;
+}
+
+.purchase-link:hover {
+  color: rgb(133, 11, 155);
+}
