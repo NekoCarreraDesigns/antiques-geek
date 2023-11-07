@@ -1,0 +1,16 @@
+.purchase-message-card {
+  box-shadow: 1px 1px 1px 1px rgb(235, 151, 23);
+  margin: 20px;
+  padding: 20px;
+}
+
+.purchase-message-paragraph,
+.purchase-message-header {
+  font-size: 24px;
+  color: rgb(235, 151, 23);
+}
+
+.purchase-message-closer {
+  padding: 50px;
+  margin-top: 20px;
+}
