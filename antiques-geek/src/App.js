@@ -1,14 +1,14 @@
 import "./App.css";
 import { Route, Routes } from "react-router-dom";
 import Header from "./components/Header";
-import Philately from "./components/Philately";
+import Philately from "./pages/Philately";
 import PageBody from "./components/Page-Body";
-import StampsView from "./components/Stamps-View";
-import Numisma from "./components/Numisma";
-import CoinsView from "./components/Coins-View";
-import Antiques from "./components/Antiques";
-import AntiquesView from "./components/Antiques-View";
-import PurchaseMessage from "./components/Purchase-Message";
+import StampsView from "./pages/Stamps-View";
+import Numisma from "./pages/Numisma";
+import CoinsView from "./pages/Coins-View";
+import Antiques from "./pages/Antiques";
+import AntiquesView from "./pages/Antiques-View";
+import PurchaseMessage from "./pages/Purchase-Message";
 
 function App() {
   return (
